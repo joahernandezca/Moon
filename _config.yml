@@ -1,7 +1,7 @@
 # Site
 title:              My Personal Page
 bio:                'Estudiante de Ingenieria de Sistemas de La Universidad Nacional de Colombia'
-#description:        "Amante la fotografia, la musica y los videjuegos."
+description:        "Amante la fotografia, la musica y los videjuegos."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/39277077_1874632025959518_5974635508322533376_n.jpg'
