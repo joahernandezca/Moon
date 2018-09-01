@@ -7,12 +7,18 @@ comments: false
 ---
 
 ## Educacion
-* Instituto Tecnico Industrial Francisco Jose de Caldas
-* Universidad Nacional de Colombia
+* Instituto Tecnico Industrial Francisco José de Caldas.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachiller Tecnico en Electricidad y Electronica.
+* Universidad ECCI
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tecnologo en Electronica Industrial.
+* Universidad Nacional de Colombia.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Estudiante de Ingenieria de Sistemas
 
 ## Proyectos
 * IbisDiscite
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plataforma para aprender la gramatica del idioma Ingles.
 * UnApoyo
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Plataforma diseñada para ayudar a los estudiantes a enfocarse en un enfasis de la carrera basado en las notas obtenidas en las materias cursadas.
 
 ## Intereses
 
