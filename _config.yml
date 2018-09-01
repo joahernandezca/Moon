@@ -5,7 +5,7 @@ bio:                'Estudiante de Ingenieria de Sistemas de La Universidad Naci
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/106826.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
@@ -38,17 +38,17 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            username
-facebook:           username
-github-url:         username
+twitter:            John_Hernandez6
+facebook:           justjohnhdez
+github-url:         joahernandezca
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           username
+linkedin:           john-alexander-hernandez-carrero-1bb63a16a/
 #xing:              username
 instagram:          john_hernandez6
 #lastfm:            username
-tumblr:             username
+tumblr:             johnhdez96
 #medium:            '@username'
-pinterest:          username
+pinterest:          justjohnhdez
 #foursquare:        username
 steam:              username
 #dribbble:          username
